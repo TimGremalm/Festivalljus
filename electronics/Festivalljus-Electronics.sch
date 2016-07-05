@@ -331,4 +331,8 @@ $EndComp
 Connection ~ 6950 3100
 Wire Wire Line
 	6950 3100 7100 3100
+Text GLabel 10750 2500 0    60   Input ~ 0
+Yaw_EndSW
+Text GLabel 10750 2650 0    60   Input ~ 0
+Pitch_EndSW
 $EndSCHEMATC
