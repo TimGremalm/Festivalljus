@@ -1,4 +1,4 @@
-update=Wed 06 Jul 2016 12:07:23 AM CEST
+update=Sun 10 Jul 2016 08:17:55 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,17 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=kicad-ESP8266/ESP8266
+LibName31=/home/exxoz/tempprojects/walter_kicad_libs/library/conn
+LibName32=/home/exxoz/tempprojects/walter_kicad_libs/library/power
+LibName33=/home/exxoz/tempprojects/walter_kicad_libs/library/w_analog
+LibName34=/home/exxoz/tempprojects/walter_kicad_libs/library/w_connectors
+LibName35=/home/exxoz/tempprojects/walter_kicad_libs/library/w_device
+LibName36=/home/exxoz/tempprojects/walter_kicad_libs/library/w_logic
+LibName37=/home/exxoz/tempprojects/walter_kicad_libs/library/w_memory
+LibName38=/home/exxoz/tempprojects/walter_kicad_libs/library/w_microcontrollers
+LibName39=/home/exxoz/tempprojects/walter_kicad_libs/library/w_opto
+LibName40=/home/exxoz/tempprojects/walter_kicad_libs/library/w_relay
+LibName41=/home/exxoz/tempprojects/walter_kicad_libs/library/w_rtx
+LibName42=/home/exxoz/tempprojects/walter_kicad_libs/library/w_transistor
+LibName43=/home/exxoz/tempprojects/walter_kicad_libs/library/w_vacuum
+LibName44=rgb_led_bead_3w

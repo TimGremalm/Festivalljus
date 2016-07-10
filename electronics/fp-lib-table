@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name rgb_led_bead_3w)(type KiCad)(uri "$(KIPRJMOD)/rgb_led_bead_3w.pretty")(options "")(descr ""))
+)

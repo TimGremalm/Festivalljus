@@ -29,6 +29,19 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:ESP8266
+LIBS:w_analog
+LIBS:w_connectors
+LIBS:w_device
+LIBS:w_logic
+LIBS:w_memory
+LIBS:w_microcontrollers
+LIBS:w_opto
+LIBS:w_relay
+LIBS:w_rtx
+LIBS:w_transistor
+LIBS:w_vacuum
+LIBS:rgb_led_bead_3w
+LIBS:Festivalljus-Electronics-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
