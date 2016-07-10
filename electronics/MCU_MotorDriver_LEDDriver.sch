@@ -41,7 +41,6 @@ LIBS:w_rtx
 LIBS:w_transistor
 LIBS:w_vacuum
 LIBS:rgb_led_bead_3w
-LIBS:Festivalljus-Electronics-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
