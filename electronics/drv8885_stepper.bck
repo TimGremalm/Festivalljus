@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8885
+D Stepper motor driver, 1.5A, 8-37V, integrated current sense, microstepping
+$ENDCMP
+#
+#End Doc Library

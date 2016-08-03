@@ -1,4 +1,4 @@
-update=Sun 10 Jul 2016 08:17:55 CEST
+update=03/08/2016 03:30:22
 version=1
 last_client=kicad
 [pcbnew]
@@ -73,3 +73,4 @@ LibName41=${KISYSMOD}/w_rtx
 LibName42=${KISYSMOD}/w_transistor
 LibName43=${KISYSMOD}/w_vacuum
 LibName44=rgb_led_bead_3w
+LibName45=drv8885_stepper

@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name rgb_led_bead_3w)(type KiCad)(uri "$(KIPRJMOD)/rgb_led_bead_3w.pretty")(options "")(descr ""))
   (lib (name ESP8266)(type KiCad)(uri ${KIPRJMOD}/kicad-ESP8266/ESP8266.pretty)(options "")(descr ""))
+  (lib (name HTSSOP-24_4.4x7.8mm_Pitch0.65mm)(type KiCad)(uri "$(KIPRJMOD)/HTSSOP-24_4.4x7.8mm_Pitch0.65mm.pretty")(options "")(descr ""))
 )
